@@ -1,0 +1,23 @@
+{
+    "openai_key": "",
+    "modules": [
+        "login",
+        "main_navigation",
+        "dashboard",
+        "favorite",
+        "profile",
+        "demo_form",
+        "firebase/login_form",
+        "firebase/dashboard_form",
+        "firebase/product_list_form",
+        "firebase/product_form",
+        "firebase/order_form",
+        "tutorial/tutorial_common_widget",
+        "tutorial/tutorial_layout",
+        "tutorial/tutorial_listview",
+        "tutorial/tutorial_navigasi",
+        "tutorial/tutorial_state_management",
+        "tutorial/tutorial_confirm",
+        "tutorial2/tutorial_common_widget2"
+    ]
+}

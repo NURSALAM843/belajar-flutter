@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415273722915",
+    "project_id": "products-bf387",
+    "storage_bucket": "products-bf387.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415273722915:android:5e1121d0f467079157fd96",
+        "android_client_info": {
+          "package_name": "com.capekngoding.flutter_hyper_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415273722915-viler8mltrge5fiu152anfkvroblntvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4EKggqYdBbSIGEtMQQzn1bTt1AtkI6Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415273722915-viler8mltrge5fiu152anfkvroblntvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
